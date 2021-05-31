@@ -1,0 +1,4 @@
+This document is for potential parts lists
+https://thepihut.com/products/raspberry-pi-pico?variant=37979757412547
+https://thepihut.com/products/raspberry-pi-zero-w?variant=31901049749566
+https://thepihut.com/products/hdmi-7-1024x600-lcd-touch-screen-and-case?variant=20063093555262
